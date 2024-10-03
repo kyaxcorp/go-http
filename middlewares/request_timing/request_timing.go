@@ -1,10 +1,11 @@
 package request_timing
 
 import (
+	"time"
+
 	"github.com/gin-gonic/gin"
 	"github.com/gookit/color"
-	"github.com/kyaxcorp/go-core/core/logger/model"
-	"time"
+	"github.com/kyaxcorp/go-logger/model"
 )
 
 func GetMiddleware(logger *model.Logger) gin.HandlerFunc {

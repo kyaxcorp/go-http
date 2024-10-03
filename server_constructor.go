@@ -5,10 +5,6 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/gookit/color"
-	"github.com/kyaxcorp/go-core/core/logger"
-	"github.com/kyaxcorp/go-core/core/logger/appLog"
-	loggerConfig "github.com/kyaxcorp/go-core/core/logger/config"
-	loggerPaths "github.com/kyaxcorp/go-core/core/logger/paths"
 	"github.com/kyaxcorp/go-helper/certs"
 	"github.com/kyaxcorp/go-helper/conv"
 	"github.com/kyaxcorp/go-helper/errors2/define"
@@ -22,6 +18,10 @@ import (
 	"github.com/kyaxcorp/go-http/middlewares/connection"
 	"github.com/kyaxcorp/go-http/middlewares/request_timing"
 	"github.com/kyaxcorp/go-http/routes/ping"
+	"github.com/kyaxcorp/go-logger"
+	"github.com/kyaxcorp/go-logger/appLog"
+	loggerConfig "github.com/kyaxcorp/go-logger/config"
+	loggerPaths "github.com/kyaxcorp/go-logger/paths"
 	"github.com/rs/zerolog"
 )
 

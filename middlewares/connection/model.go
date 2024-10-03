@@ -2,7 +2,7 @@ package connection
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/kyaxcorp/go-core/core/logger/model"
+	"github.com/kyaxcorp/go-logger/model"
 )
 
 const HttpContextConnDetailsKey = "CONN_DETAILS"

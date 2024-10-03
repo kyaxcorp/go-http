@@ -6,7 +6,6 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/kyaxcorp/go-core/core/logger/model"
 	"github.com/kyaxcorp/go-helper/_context"
 	"github.com/kyaxcorp/go-helper/sync/_bool"
 	"github.com/kyaxcorp/go-helper/sync/_map_string_interface"
@@ -15,6 +14,7 @@ import (
 	"github.com/kyaxcorp/go-helper/sync/_uint64"
 	"github.com/kyaxcorp/go-http/middlewares/authentication"
 	"github.com/kyaxcorp/go-http/middlewares/connection"
+	"github.com/kyaxcorp/go-logger/model"
 )
 
 type OnJsonError func(err error, message interface{})

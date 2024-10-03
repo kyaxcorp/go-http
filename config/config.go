@@ -1,8 +1,8 @@
 package config
 
 import (
-	loggerConfig "github.com/kyaxcorp/go-core/core/logger/config"
 	"github.com/kyaxcorp/go-helper/_struct"
+	loggerConfig "github.com/kyaxcorp/go-logger/config"
 )
 
 type Config struct {
