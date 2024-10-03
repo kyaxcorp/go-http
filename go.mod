@@ -8,6 +8,7 @@ require (
 	github.com/gookit/color v1.5.4
 	github.com/kyaxcorp/go-core v0.0.1-20240805-0001
 	github.com/kyaxcorp/go-helper v1.0.0
+	github.com/kyaxcorp/go-logger v1.0.0
 	github.com/rs/zerolog v1.33.0
 )
 
@@ -57,7 +58,7 @@ require (
 	github.com/tidwall/gjson v1.18.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
-	github.com/tidwall/sjson v1.2.4 // indirect
+	github.com/tidwall/sjson v1.2.5 // indirect
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect

@@ -96,6 +96,8 @@ github.com/kyaxcorp/go-core v0.0.1-20240805-0001 h1:SMtTmpnpi6q/ZiSTDRZ6WV9MKkBQ
 github.com/kyaxcorp/go-core v0.0.1-20240805-0001/go.mod h1:q2BjOd7wvWYiIHf6ozGQ/kiQS8jg5zS6WRwc0g+bJt4=
 github.com/kyaxcorp/go-helper v1.0.0 h1:eV6KcQiWo4WNxsnoY3fgELpSRCexdSDvzCBfzz8FyEg=
 github.com/kyaxcorp/go-helper v1.0.0/go.mod h1:jHEneTXY8zoPvfYnXpYbz6YUylUPwuO0lC4F404twec=
+github.com/kyaxcorp/go-logger v1.0.0 h1:NuTI73yPgJYegOp1WDHOskSFkTu2yoqDnHX5H9m0t1E=
+github.com/kyaxcorp/go-logger v1.0.0/go.mod h1:C5i5rIMY7iRtpyOVanqoGMyNXmyJmAky6Pr/HCz73Cw=
 github.com/kyaxcorp/gofile v0.0.1-20220602-0002 h1:BIkIoD2S0fsHNcuX04ZOL3sdNAxZEFNEXxCJKAUu3cI=
 github.com/kyaxcorp/gofile v0.0.1-20220602-0002/go.mod h1:2No3+xz1EdDUOL7ThD+NQZ0bBVx7G+1BqWAd0iEz5r0=
 github.com/kyaxcorp/gofm v0.0.1-20220602-0003 h1:WQIX9hJl+7KjFTcML8k8fhUmJZ0C1oUqm3PI82c1CBs=
@@ -170,15 +172,15 @@ github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsT
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/subosito/gotenv v1.2.0 h1:Slr1R9HxAlEKefgq5jn9U+DnETlIUa6HfgEzj0g5d7s=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
-github.com/tidwall/gjson v1.12.1/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
+github.com/tidwall/gjson v1.14.2/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/gjson v1.18.0 h1:FIDeeyB800efLX89e5a8Y0BNH+LOngJyGrIWxG2FKQY=
 github.com/tidwall/gjson v1.18.0/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/match v1.1.1 h1:+Ho715JplO36QYgwN9PGYNhgZvoUSc9X2c80KVTi+GA=
 github.com/tidwall/match v1.1.1/go.mod h1:eRSPERbgtNPcGhD8UCthc6PmLEQXEWd3PRB5JTxsfmM=
 github.com/tidwall/pretty v1.2.0 h1:RWIZEg2iJ8/g6fDDYzMpobmaoGh5OLl4AXtGUGPcqCs=
 github.com/tidwall/pretty v1.2.0/go.mod h1:ITEVvHYasfjBbM0u2Pg8T2nJnzm8xPwvNhhsoaGGjNU=
-github.com/tidwall/sjson v1.2.4 h1:cuiLzLnaMeBhRmEv00Lpk3tkYrcxpmbU81tAY4Dw0tc=
-github.com/tidwall/sjson v1.2.4/go.mod h1:098SZ494YoMWPmMO6ct4dcFnqxwj9r/gF0Etp19pSNM=
+github.com/tidwall/sjson v1.2.5 h1:kLy8mja+1c9jlljvWTlSazM7cKDRfJuR/bOJhcY5NcY=
+github.com/tidwall/sjson v1.2.5/go.mod h1:Fvgq9kS/6ociJEDnK0Fk1cpYF4FIW6ZF7LAe+6jwd28=
 github.com/tklauser/go-sysconf v0.3.6 h1:oc1sJWvKkmvIxhDHeKWvZS4f6AW+YcoguSfRF2/Hmo4=
 github.com/tklauser/go-sysconf v0.3.6/go.mod h1:MkWzOF4RMCshBAMXuhXJs64Rte09mITnppBXY/rYEFI=
 github.com/tklauser/numcpus v0.2.2 h1:oyhllyrScuYI6g+h/zUvNXNp1wy7x8qQy3t/piefldA=
