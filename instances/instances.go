@@ -3,8 +3,8 @@ package instances
 import (
 	"sync"
 
-	"github.com/kyaxcorp/go-core/core/listeners/http/server"
 	"github.com/kyaxcorp/go-helper/errors2/define"
+	server "github.com/kyaxcorp/go-http"
 )
 
 // Here we store the created instances...
