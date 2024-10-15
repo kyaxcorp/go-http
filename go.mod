@@ -6,8 +6,8 @@ require (
 	github.com/gin-gonic/gin v1.10.0
 	github.com/google/uuid v1.6.0
 	github.com/gookit/color v1.5.4
-	github.com/kyaxcorp/go-helper v1.0.2
-	github.com/kyaxcorp/go-logger v1.0.2
+	github.com/kyaxcorp/go-helper v1.0.3
+	github.com/kyaxcorp/go-logger v1.0.3
 	github.com/rs/zerolog v1.33.0
 )
 
@@ -31,14 +31,13 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.8 // indirect
 	github.com/kyaxcorp/gofile v0.0.1-20220602-0002 // indirect
-	github.com/kyaxcorp/gofm v0.0.1-20220602-0003 // indirect
+	github.com/kyaxcorp/gofm v0.0.1-20220707-0001 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.2 // indirect
-	github.com/rogpeppe/go-internal v1.6.1 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
 	github.com/tidwall/gjson v1.18.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
