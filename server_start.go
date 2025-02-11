@@ -13,6 +13,9 @@ import (
 	"github.com/rs/zerolog"
 )
 
+// TODO: Add a callback for failed listening
+// TODO: make sync/async listening
+
 // THe user can start it in a goroutine
 func (s *Server) Start() error {
 	s.LInfo().Msg("entering start function")
